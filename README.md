@@ -1,6 +1,6 @@
-# NSNFeAPIClientVB6
+# NSNFCeAPIClientVB6
 
-Esta página apresenta trechos de códigos de um módulo em VB6 que foi desenvolvido para consumir as funcionalidades da NS NF-e API.
+Esta página apresenta trechos de códigos de um módulo em VB6 que foi desenvolvido para consumir as funcionalidades da NS NFC-e API.
 
 -------
 
